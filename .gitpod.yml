@@ -1,5 +1,0 @@
-image;
- file: .gitpod.Dockerfile
-tasks:
- - name: Running MongoDB
-   command: mkdir -p data && mongod --dhpath data
